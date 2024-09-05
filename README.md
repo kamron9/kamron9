@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Kamron!
 
-Welcome to my GitHub! I'm **frontend developer** 
+Welcome to my GitHub! I'm a **frontend developer** 
 
 ---
 
