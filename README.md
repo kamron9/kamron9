@@ -32,8 +32,8 @@ Feel free to check them out right here on my GitHub!
 I'm open to collaborations and would love to connect with fellow developers! You can reach out to me here:
 
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamronalimov80@gmail.com) **Email**: [kamronalimov80](mailto:kamronalimov80@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile) **LinkedIn**: [linkedin.com/in/kamron9](https://linkedin.com/in/kamron9)
-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kamron987) **Telegram**: [t.me/kamron987](https://t.me/kamron987)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile) **LinkedIn**: [alimov-kamron](https://www.linkedin.com/in/alimov-kamron/)
+- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kamron987) **Telegram**: [kamron987](https://t.me/kamron987)
 
 ---
 
