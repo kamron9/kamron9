@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Kamron!
 
-Welcome to my GitHub! I'm a passionate **frontend developer** who loves building clean, user-friendly interfaces and tackling complex challenges in web development. I'm constantly exploring new technologies and perfecting my craft.
+Welcome to my GitHub! I'm **frontend developer** 
 
 ---
 
@@ -11,7 +11,7 @@ Here are some of the tools and technologies I work with:
 - 🖥️ **Frontend**: React, Next.js, JavaScript, TypeScript, HTML, CSS
 - 🌐 **Backend**: Node.js, Express, MongoDB
 - 📦 **State Management**: Redux Toolkit, Zustand
-- 🎨 **UI/UX**: Material UI, Tailwind CSS
+- 🎨 **UI/UX**: Material UI, Antd, Chakra UI, Shadcn, Tailwind CSS
 - ⚙️ **Tools**: Git, GitHub, Vercel, Netlify, Figma
 
 ---
