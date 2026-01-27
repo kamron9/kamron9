@@ -30,10 +30,9 @@ I enjoy building clean, performant, and accessible user interfaces.
 
 ## 📫 Contact & Links
 
-- 📧 **Email**: [kamronalimov80@gmail.com](mailto:kamronalimov80@gmail.com)
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
- **LinkedIn**: [alimov-kamron](https://www.linkedin.com/in/alimov-kamron/)
-- 💬 **Telegram**: [@kamron9](https://t.me/kamron9)
+- **Email**: [kamronalimov80@gmail.com](mailto:kamronalimov80@gmail.com)
+- **LinkedIn**: [alimov-kamron](https://www.linkedin.com/in/alimov-kamron/)
+- **Telegram**: [@kamron9](https://t.me/kamron9)
 
 ---
 
