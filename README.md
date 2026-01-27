@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kamron Alimov
+# 👋 Hi, I'm Kamron
 
 Frontend Developer with **3+ years of experience** building modern, scalable web applications.
 
